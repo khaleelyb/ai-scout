@@ -1,0 +1,5 @@
+{
+  "name": "AI Football Scouting Assistant",
+  "description": "A modern web application for football scouts and players. Scouts can discover, search, and generate AI-powered scouting reports for players. Players can view their profiles and manage communications. This app leverages the Gemini API to provide in-depth player analysis.",
+  "requestFramePermissions": []
+}
